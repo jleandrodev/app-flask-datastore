@@ -1,4 +1,6 @@
 __pycache__/
-.gcloudingore
+.gcloudignore
 env/
 app.exemple.yaml
+.gitignore
+cloud_sql_proxy
